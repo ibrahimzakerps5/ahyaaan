@@ -1,1 +1,0 @@
-print(aura+farming) 
