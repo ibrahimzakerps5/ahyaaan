@@ -1,2 +1,2 @@
 import calc
-func(4)
+calc.func(4)
