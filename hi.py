@@ -1,2 +1,1 @@
-import calc
-calc.func(4)
+print(aura+farming) 
