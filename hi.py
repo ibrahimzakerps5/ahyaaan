@@ -1,4 +1,2 @@
-print(12345dwka|
-
-wqdoihih
-\h2d
+import calc
+func(4)
