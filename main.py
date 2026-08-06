@@ -17,3 +17,10 @@ op = a[symbol_location]
 
 if op in "+":
     print(calc.add(n1,n2))
+elif op in "-":
+    print(calc.subtract(n1,n2))
+elif op in "x×*":
+    print(calc.multiply(n1,n2))
+elif op in "/÷":
+    print(calc.divide(n1,n2))
+else: print("failure")

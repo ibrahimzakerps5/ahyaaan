@@ -9,6 +9,7 @@ def subtract(a,b):
 def multiply(a,b):
     ans = a * b
     return ans 
-def division(a,b):
+
+def divide(a,b):
     ans = a / b 
     return ans
